@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/bg">
+        <file>pic/background.jpg</file>
+    </qresource>
+    <qresource prefix="/fruit">
+        <file>pic/strawberry.png</file>
+        <file>pic/pineapple.png</file>
+        <file>pic/kiwi.png</file>
+        <file>pic/egg.png</file>
+        <file>pic/dimond.png</file>
+        <file>pic/bomb.png</file>
+    </qresource>
+    <qresource prefix="/barrier">
+        <file>pic/barrier_line.png</file>
+    </qresource>
+</RCC>
